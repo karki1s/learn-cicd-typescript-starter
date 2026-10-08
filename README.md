@@ -25,3 +25,5 @@ You do _not_ need to set up a database or any interactivity on the webpage yet. 
 skarki
 
 ![Test coverage](https://github.com/karki1s/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
+
+Testing
